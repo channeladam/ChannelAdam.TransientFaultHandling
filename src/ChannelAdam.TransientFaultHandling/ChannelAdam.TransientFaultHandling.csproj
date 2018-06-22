@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.0</TargetFramework>
+    <Description>A .NET library that provides an abstraction for implementing retry policies.</Description>
+    <Version>0.0.0</Version>
+    <Authors>Adam Craven</Authors>
+    <Copyright>Copyright 2014-2018 Adam Craven</Copyright>
+    <PackageLicenseUrl>http://www.apache.org/licenses/LICENSE-2.0</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/channeladam/ChannelAdam.TransientFaultHandling</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/channeladam/ChannelAdam.TransientFaultHandling</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageIconUrl>https://devzone.channeladam.com/img/channeladam/channeladam-logo.png</PackageIconUrl>
+    <PackageTags>ChannelAdam,Retry Library,Retry Policies,Transient Fault Handling</PackageTags>
+    <PackageReleaseNotes>2.0.0 - Refactored out of ChannelAdam.Core, target .NET Standard 1.0, no strong name signing</PackageReleaseNotes>
+  </PropertyGroup>
+
+</Project>
